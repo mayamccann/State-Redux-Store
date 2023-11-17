@@ -10,5 +10,7 @@ State Challenge: Redux Store using React's Context API
 ## Credits
 
 ## Review
-
+## UConn Coding Bootcamp Cohort May 2023 
+Module 22 Challenge 
+State Challenge: Redux Store 
 
